@@ -1,2 +1,2 @@
-# nilang.github.io
-starter static template for bitinvoices
+# Starter AI Template Test
+starter static template 
